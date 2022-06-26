@@ -1,0 +1,28 @@
+*{margin-left: 10px;
+margin-right: 10px;}
+
+
+
+nav{
+    display: flex;
+    background-color: palevioletred;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+    justify-content: space-around;
+    width: 1200px;
+    font-size: xx-large;
+}
+
+p{
+    font-size: larger;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
